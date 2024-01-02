@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2fLYSOu9GM8ITf6AN8RSHE5yXWNQ6KxQwnSgTWs7uP+04mR86bO1xOSYSmULCBXDJBtTsDgR2S/X7bI4zwmVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dougl\\Documents\\Dev\\C#\\HtmlCompiler\\HtmlCompiler\\HtmlCompiler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512"
+  ],
+  "logs": []
+}

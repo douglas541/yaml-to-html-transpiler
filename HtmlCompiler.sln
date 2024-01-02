@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlCompiler", "HtmlCompiler\HtmlCompiler.csproj", "{11BD5BB3-BD97-4078-BB71-EEF18475873B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{2D5C7AE6-5F0F-4EBB-8E1B-1576A38D369D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11BD5BB3-BD97-4078-BB71-EEF18475873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BD5BB3-BD97-4078-BB71-EEF18475873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BD5BB3-BD97-4078-BB71-EEF18475873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BD5BB3-BD97-4078-BB71-EEF18475873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5C7AE6-5F0F-4EBB-8E1B-1576A38D369D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5C7AE6-5F0F-4EBB-8E1B-1576A38D369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5C7AE6-5F0F-4EBB-8E1B-1576A38D369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5C7AE6-5F0F-4EBB-8E1B-1576A38D369D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+configurações:
+	idioma: pt-br
+	título: Minha primeira página web;
+cabeçalho:
+	posição: superior
+	imagem {
+		caminho: Teste.jpg
+		texto alternativo: Texto alternativo da imagem logo2
+	}
+	navegação {
+		opções: [Início, Sobre, Fale conosco]
+		opção: Início
+		opção {
+			texto: Sobre
+			subopções: [Quem Somos, Trabalhe Conosco]
+		}
+		opção: Fale conosco
+	}
+	busca {
+		texto: Digite o que procura
+		contorno: linha
+	}
+	botão {
+		texto: Log in
+		contorno: nenhum
+	}
+	botão {
+		texto: Cadastro
+		contorno: preencher
+	};
+corpo principal:
+	artigo {
+		título: Olá, mundo!
+		subtítulo: bem vindo
+		paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+	}
+	imagem {
+		caminho: /assets/imagem2
+		texto alternativo: Texto alternativo da imagem
+	};
+rodapé:
+	paragrafo: Todos os direitos reservados;

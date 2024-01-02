@@ -1,0 +1,9 @@
+componentes não únicos:
+	imagem
+	botão
+	seção
+
+próximas etapas:
+	mais componentes
+	mais opções de estilização
+	documentação dos componentes

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha primeira página web</title>
+    <style>
+        /* Estilos básicos */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            background-color: #f4f4f4;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header img {
+            max-width: 120px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        .search-bar {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        .btn {
+            cursor: pointer;
+            padding: 10px 15px;
+            margin-left: 10px;
+        }
+
+        .btn-outline {
+            border: 1px solid black;
+            background-color: transparent;
+        }
+
+        .btn-filled {
+            background-color: black;
+            color: white;
+        }
+
+        .btn-none {
+            border: none;
+            background-color: transparent;
+        }
+
+        main {
+            padding: 20px 20%;
+        }
+
+        footer {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Cabeçalho -->
+    <header>
+        <img src="Teste.jpg" alt="Texto alternativo da imagem do header">
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Quem Somos</a></li>
+                <li><a href="#">Trabalhe Conosco</a></li>
+                <li><a href="#">Fale conosco</a></li>
+            </ul>
+        </nav>
+        <div>
+            <input type="text" class="search-bar" placeholder="Digite o que procura">
+            <button class="btn btn-outline">Log in</button>
+            <button class="btn btn-filled">Cadastro</button>
+        </div>
+    </header>
+
+    <!-- Corpo principal -->
+    <main>
+        <article>
+            <h1>Olá, mundo!</h1>
+            <h2>bem vindo</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum
+                nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec
+                lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit
+                felis quis tincidunt.</p>
+            <img src="Teste.jpg" alt="Texto alternativo da imagem do body">
+        </article>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>Todos os direitos reservados</p>
+    </footer>
+
+</body>
+
+</html>

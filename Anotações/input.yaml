@@ -1,0 +1,42 @@
+configurações:
+  idioma: "pt"
+  título: Minha primeira página web
+
+cabeçalho:
+  posição: superior
+  imagem 1:
+    caminho: Logo.png
+    texto alternativo: Texto alternativo da imagem do header
+  navegação:
+    - Início
+    - Quem Somos
+    - Trabalhe Conosco
+    - Fale conosco
+  grupo 1:
+    busca:
+      texto: Digite o que procura
+      borda: linha
+    botão 1:
+      texto: Log in
+      contorno: linha
+    botão 2:
+      texto: Cadastro
+      contorno: preencher
+
+corpo principal:
+  título: Título da página
+  artigo:
+    seção 1:
+      título: Título da seção
+      subtítulo: Subtítulo da seção
+      paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+    seção 2:
+      título: Título da seção
+      subtítulo: Subtítulo da seção
+      paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+      imagem:
+        caminho: Teste.jpg
+        texto alternativo: Texto alternativo da imagem do body
+
+rodapé:
+  paragrafo: Todos os direitos reservados

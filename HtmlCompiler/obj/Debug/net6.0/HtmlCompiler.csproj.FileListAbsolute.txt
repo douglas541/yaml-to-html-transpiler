@@ -1,0 +1,17 @@
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlCompiler.exe
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlCompiler.deps.json
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlCompiler.runtimeconfig.json
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlCompiler.dll
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlCompiler.pdb
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.csproj.AssemblyReference.cache
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.AssemblyInfo.cs
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.dll
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\refint\HtmlCompiler.dll
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.pdb
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.genruntimeconfig.cache
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\ref\HtmlCompiler.dll
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\dougl\Documents\Dev\C#\HtmlCompiler\HtmlCompiler\obj\Debug\net6.0\HtmlCompiler.csproj.CopyComplete

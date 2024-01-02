@@ -1,0 +1,56 @@
+configurações:
+  idioma: "pt"
+  título: Minha primeira página web
+  tema: "padrão"
+
+cabeçalho:
+  posição: superior
+  imagem 1:
+    caminho: Logo.png
+    texto alternativo: Texto alternativo da imagem do header
+  navegação:
+    - Início
+    - Quem Somos
+    - Trabalhe Conosco: artigo_principal
+  grupo 1:
+    busca:
+      texto: Digite o que procura
+      borda: linha
+    botão 1:
+      texto: Log in
+      contorno: linha
+    botão 2:
+      texto: Cadastro
+      contorno: preencher
+  busca:
+    texto: Digite o que procura
+    borda: linha
+  botão 1:
+    texto: Log in
+    contorno: linha
+  botão 2:
+    texto: Cadastro
+    contorno: preencher
+
+corpo principal:
+  título: Título da página
+  artigo artigo_principal:
+    seção 1:
+      título: Título da primeira seção
+      subtítulo: Subtítulo da primeira seção
+      paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+    seção 2:
+      título: Título da segunda seção
+      subtítulo: Subtítulo da segunda seção
+      paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+      imagem:
+        caminho: Paisagem.jpg
+        texto alternativo: Texto alternativo da imagem do body
+  subtítulo: Subtítulo da página
+  paragrafo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas facilisis convallis mi, vitae dictum nisl euismod in. Suspendisse consequat, dui eget consequat tempus, nunc turpis fermentum nisl, nec lacinia tortor elit luctus erat. Donec ullamcorper eget elit eget luctus. Suspendisse blandit blandit felis quis tincidunt.
+  imagem:
+    caminho: Paisagem.jpg
+    texto alternativo: Texto alternativo da imagem do body
+
+rodapé titulo_principal:
+  paragrafo: Todos os direitos reservados
